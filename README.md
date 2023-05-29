@@ -5,8 +5,6 @@ Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍�
 
 # Java 技术书籍大全
 
-:thumbsup: :thumbsup: :thumbsup:  推荐一个在线搜课程的神器，“[课程搜](https://www.kcsou.com)”：[https://www.kcsou.com/s_Java/](https://www.kcsou.com/s_Java/)
-
 -------------
 
 
@@ -318,15 +316,6 @@ Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍�
  * [《软件架构设计：大型网站技术架构与业务架构融合之道》](https://www.coderxing.com/r.php?r=https://u.jd.com/lSUYn8)
 
 
-## JVM周边语言
-
- * [《Scala编程（第3版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/R0JT1a) - 豆瓣评分 9.4
- * [《Groovy程序设计》](https://www.coderxing.com/r.php?r=https://u.jd.com/AMZkGX) - 豆瓣评分 8.2
- * [《快学Scala（第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/h6Gnct) - 豆瓣评分 8
- * [《Kotlin极简教程》](https://www.coderxing.com/r.php?r=https://u.jd.com/loJfwO)
- * [《Scala集合技术手册》](https://www.coderxing.com/r.php?r=https://u.jd.com/WvMNgs)
-
-
 ## 项目管理&领导力&流程
 
  * [《构建之法 现代软件工程（第三版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/5OmcTI) - 豆瓣评分 9
@@ -359,19 +348,7 @@ Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍�
  * [《敏捷文化：如何打造优秀的高效能团队 [The Agile Culture: Leading through Trust and Owner]》](https://www.coderxing.com/r.php?r=https://u.jd.com/pSHHhA)
 
 
-## 数学与算法
-
-
-
-### 数学
- * [《数学之美（第二版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/lcuOQq) - 豆瓣评分 8.9
- * [《程序员的数学2 概率统计》](https://www.coderxing.com/r.php?r=https://u.jd.com/Yte3WW) - 豆瓣评分 8.7
- * [《程序员的数学3 线性代数》](https://www.coderxing.com/r.php?r=https://u.jd.com/WiKN9k) - 豆瓣评分 8.6
- * [《程序员的数学》](https://www.coderxing.com/r.php?r=https://u.jd.com/iwv4Zd) - 豆瓣评分 7.2
- * [《程序员的数学思维修炼（趣味解读）》](https://www.coderxing.com/r.php?r=https://u.jd.com/qhD5IJ) - 豆瓣评分 5.4
- * [《统计之美：人工智能时代的科学思维》](https://www.coderxing.com/r.php?r=https://u.jd.com/vBLDyU)
- * [《统计思维：程序员数学之概率统计（第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/iCEv9a)
-
+## 算法
 
 ### 算法
  * [《算法导论（原书第3版）/计算机科学丛书 [Introduction to Algorithms, third edition]》](https://www.coderxing.com/r.php?r=https://u.jd.com/AmwANr) - 豆瓣评分 9.3
@@ -414,7 +391,6 @@ Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍�
 
 
 ## 大厂出品
-
 
 
 ### 阿里巴巴技术丛书
